@@ -1,4 +1,4 @@
-# Hi, I’m Carmen López Arroquia 👋
+# Hi, I’m Carmen 👋
 
 ## **Full Stack Developer based in Utrecht.**
 
