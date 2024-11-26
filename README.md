@@ -2,9 +2,7 @@
 
 ## **Full Stack Developer based in Utrecht.**
 
-With my background as an Architect spanning 15 years,
-I bring a comprehensive understanding of different project stages
-which I apply to write clear and straightforward code. 
+
 
 Between January - July 2024 I followed the Web Dev bootcamp at Le Wagon,
 a part-time full-stack course that teaches the skills relevant for practice.
